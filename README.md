@@ -58,4 +58,16 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Subhamrana007/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Subhamrana007/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Subhamrana007/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+## Array
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Subhamrana007/leetcode/tree/master/0055-jump-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Subhamrana007/leetcode/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Subhamrana007/leetcode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
