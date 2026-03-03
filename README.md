@@ -61,6 +61,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Subhamrana007/leetcode/tree/master/0001-two-sum) |
 | [0055-jump-game](https://github.com/Subhamrana007/leetcode/tree/master/0055-jump-game) |
 ## Dynamic Programming
 |  |
@@ -70,4 +71,8 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Subhamrana007/leetcode/tree/master/0055-jump-game) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Subhamrana007/leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
