@@ -55,6 +55,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/Subhamrana007/leetcode/tree/master/0162-find-peak-element) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Subhamrana007/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Subhamrana007/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Subhamrana007/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -63,6 +64,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Subhamrana007/leetcode/tree/master/0001-two-sum) |
 | [0055-jump-game](https://github.com/Subhamrana007/leetcode/tree/master/0055-jump-game) |
+| [0162-find-peak-element](https://github.com/Subhamrana007/leetcode/tree/master/0162-find-peak-element) |
 ## Dynamic Programming
 |  |
 | ------- |
