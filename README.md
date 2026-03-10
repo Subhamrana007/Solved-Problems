@@ -65,6 +65,7 @@
 | [0001-two-sum](https://github.com/Subhamrana007/leetcode/tree/master/0001-two-sum) |
 | [0055-jump-game](https://github.com/Subhamrana007/leetcode/tree/master/0055-jump-game) |
 | [0162-find-peak-element](https://github.com/Subhamrana007/leetcode/tree/master/0162-find-peak-element) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Subhamrana007/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -77,4 +78,24 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Subhamrana007/leetcode/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Subhamrana007/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Backtracking
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Subhamrana007/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Subhamrana007/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Subhamrana007/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Subhamrana007/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
