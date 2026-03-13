@@ -65,6 +65,7 @@
 | [0001-two-sum](https://github.com/Subhamrana007/leetcode/tree/master/0001-two-sum) |
 | [0055-jump-game](https://github.com/Subhamrana007/leetcode/tree/master/0055-jump-game) |
 | [0162-find-peak-element](https://github.com/Subhamrana007/leetcode/tree/master/0162-find-peak-element) |
+| [1137-height-checker](https://github.com/Subhamrana007/leetcode/tree/master/1137-height-checker) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Subhamrana007/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Dynamic Programming
 |  |
@@ -98,4 +99,12 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Subhamrana007/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Sorting
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/Subhamrana007/leetcode/tree/master/1137-height-checker) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/Subhamrana007/leetcode/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
