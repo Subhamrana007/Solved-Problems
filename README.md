@@ -47,6 +47,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Subhamrana007/leetcode/tree/master/0071-simplify-path) |
 | [0572-subtree-of-another-tree](https://github.com/Subhamrana007/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -115,4 +116,8 @@
 | [1137-height-checker](https://github.com/Subhamrana007/leetcode/tree/master/1137-height-checker) |
 | [1635-number-of-good-pairs](https://github.com/Subhamrana007/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Subhamrana007/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/Subhamrana007/leetcode/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
