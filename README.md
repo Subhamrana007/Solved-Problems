@@ -48,6 +48,7 @@
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/Subhamrana007/leetcode/tree/master/0071-simplify-path) |
+| [0394-decode-string](https://github.com/Subhamrana007/leetcode/tree/master/0394-decode-string) |
 | [0572-subtree-of-another-tree](https://github.com/Subhamrana007/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -120,4 +121,9 @@
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/Subhamrana007/leetcode/tree/master/0071-simplify-path) |
+| [0394-decode-string](https://github.com/Subhamrana007/leetcode/tree/master/0394-decode-string) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/Subhamrana007/leetcode/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
