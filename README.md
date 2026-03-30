@@ -66,6 +66,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Subhamrana007/leetcode/tree/master/0001-two-sum) |
 | [0055-jump-game](https://github.com/Subhamrana007/leetcode/tree/master/0055-jump-game) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Subhamrana007/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0162-find-peak-element](https://github.com/Subhamrana007/leetcode/tree/master/0162-find-peak-element) |
 | [1137-height-checker](https://github.com/Subhamrana007/leetcode/tree/master/1137-height-checker) |
 | [1635-number-of-good-pairs](https://github.com/Subhamrana007/leetcode/tree/master/1635-number-of-good-pairs) |
@@ -121,9 +122,14 @@
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/Subhamrana007/leetcode/tree/master/0071-simplify-path) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Subhamrana007/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0394-decode-string](https://github.com/Subhamrana007/leetcode/tree/master/0394-decode-string) |
 ## Recursion
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/Subhamrana007/leetcode/tree/master/0394-decode-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Subhamrana007/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
