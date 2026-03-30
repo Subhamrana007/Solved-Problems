@@ -61,6 +61,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Subhamrana007/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Subhamrana007/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Subhamrana007/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/Subhamrana007/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Array
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 | [0055-jump-game](https://github.com/Subhamrana007/leetcode/tree/master/0055-jump-game) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Subhamrana007/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0162-find-peak-element](https://github.com/Subhamrana007/leetcode/tree/master/0162-find-peak-element) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/Subhamrana007/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1137-height-checker](https://github.com/Subhamrana007/leetcode/tree/master/1137-height-checker) |
 | [1635-number-of-good-pairs](https://github.com/Subhamrana007/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Subhamrana007/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
