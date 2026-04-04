@@ -57,6 +57,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Subhamrana007/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Subhamrana007/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Subhamrana007/leetcode/tree/master/0162-find-peak-element) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Subhamrana007/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -68,6 +69,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Subhamrana007/leetcode/tree/master/0001-two-sum) |
 | [0055-jump-game](https://github.com/Subhamrana007/leetcode/tree/master/0055-jump-game) |
+| [0074-search-a-2d-matrix](https://github.com/Subhamrana007/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Subhamrana007/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Subhamrana007/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0162-find-peak-element](https://github.com/Subhamrana007/leetcode/tree/master/0162-find-peak-element) |
@@ -136,4 +138,8 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Subhamrana007/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Subhamrana007/leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
