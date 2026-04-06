@@ -3,24 +3,34 @@ class Solution:
         l, r = max(weights), sum(weights)
         res = r
 
-        def canShip(cap):
-            ships, currCap = 1, cap
+        def canShip(mid):
+            ship, cap = 1, mid
             for w in weights:
-                if currCap - w < 0:
-                    ships += 1
-                    if ships > days:
-                        return False
-                    currCap = cap
+                if cap - w < 0:
+                    ship += 1
+                    cap = mid
 
-                currCap -= w
-            return True
+                cap -= w
+
+            return ship <= days
 
         while l <= r:
-            cap = (l + r) // 2
-            if canShip(cap):
-                res = min(res, cap)
-                r = cap - 1
+            mid = (l + r) // 2
+            if canShip(mid):
+                res = min(res, mid)
+                r = mid - 1
+
             else:
-                l = cap + 1
+                l = mid + 1
 
         return res
+
+
+                
+                    
+                
+            
+
+
+        
+        
