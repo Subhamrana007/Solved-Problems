@@ -4,15 +4,18 @@ class Solution:
         res = r
 
         def canShip(mid):
-            ship, cap = 1, mid
+            ship = 1
+            cap = mid
             for w in weights:
                 if cap - w < 0:
                     ship += 1
                     cap = mid
+                    
 
                 cap -= w
-
             return ship <= days
+            
+            
 
         while l <= r:
             mid = (l + r) // 2
@@ -24,13 +27,7 @@ class Solution:
                 l = mid + 1
 
         return res
-
-
-                
                     
-                
-            
-
-
         
+
         
