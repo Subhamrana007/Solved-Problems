@@ -64,6 +64,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/Subhamrana007/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Subhamrana007/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Subhamrana007/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1984-maximum-distance-between-a-pair-of-values](https://github.com/Subhamrana007/leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 ## Array
 |  |
 | ------- |
@@ -76,6 +77,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Subhamrana007/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1137-height-checker](https://github.com/Subhamrana007/leetcode/tree/master/1137-height-checker) |
 | [1635-number-of-good-pairs](https://github.com/Subhamrana007/leetcode/tree/master/1635-number-of-good-pairs) |
+| [1984-maximum-distance-between-a-pair-of-values](https://github.com/Subhamrana007/leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Subhamrana007/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Subhamrana007/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Dynamic Programming
@@ -148,4 +150,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Subhamrana007/leetcode/tree/master/0070-climbing-stairs) |
+## Two Pointers
+|  |
+| ------- |
+| [1984-maximum-distance-between-a-pair-of-values](https://github.com/Subhamrana007/leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 <!---LeetCode Topics End-->
