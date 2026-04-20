@@ -79,6 +79,7 @@
 | [1635-number-of-good-pairs](https://github.com/Subhamrana007/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Subhamrana007/leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Subhamrana007/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2199-two-furthest-houses-with-different-colors](https://github.com/Subhamrana007/leetcode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Subhamrana007/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Dynamic Programming
 |  |
@@ -89,6 +90,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Subhamrana007/leetcode/tree/master/0055-jump-game) |
+| [2199-two-furthest-houses-with-different-colors](https://github.com/Subhamrana007/leetcode/tree/master/2199-two-furthest-houses-with-different-colors) |
 ## Hash Table
 |  |
 | ------- |
