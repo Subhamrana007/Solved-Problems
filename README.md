@@ -141,6 +141,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Subhamrana007/leetcode/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/Subhamrana007/leetcode/tree/master/0394-decode-string) |
 ## Monotonic Stack
 |  |
@@ -162,4 +163,8 @@
 |  |
 | ------- |
 | [1185-find-in-mountain-array](https://github.com/Subhamrana007/leetcode/tree/master/1185-find-in-mountain-array) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Subhamrana007/leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
