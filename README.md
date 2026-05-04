@@ -70,6 +70,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Subhamrana007/leetcode/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/Subhamrana007/leetcode/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/Subhamrana007/leetcode/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Subhamrana007/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Subhamrana007/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -103,6 +104,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Subhamrana007/leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Subhamrana007/leetcode/tree/master/0070-climbing-stairs) |
 | [1635-number-of-good-pairs](https://github.com/Subhamrana007/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Subhamrana007/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -151,6 +153,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Subhamrana007/leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Subhamrana007/leetcode/tree/master/0074-search-a-2d-matrix) |
 ## Memoization
 |  |
