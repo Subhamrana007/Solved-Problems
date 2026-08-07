@@ -48,6 +48,7 @@
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/Subhamrana007/leetcode/tree/master/0071-simplify-path) |
+| [0387-first-unique-character-in-a-string](https://github.com/Subhamrana007/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/Subhamrana007/leetcode/tree/master/0394-decode-string) |
 | [0572-subtree-of-another-tree](https://github.com/Subhamrana007/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
@@ -99,6 +100,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Subhamrana007/leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Subhamrana007/leetcode/tree/master/0141-linked-list-cycle) |
+| [0387-first-unique-character-in-a-string](https://github.com/Subhamrana007/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1635-number-of-good-pairs](https://github.com/Subhamrana007/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Subhamrana007/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Math
@@ -132,6 +134,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Subhamrana007/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1137-height-checker](https://github.com/Subhamrana007/leetcode/tree/master/1137-height-checker) |
 | [1635-number-of-good-pairs](https://github.com/Subhamrana007/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Subhamrana007/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -186,4 +189,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Subhamrana007/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Subhamrana007/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
