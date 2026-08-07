@@ -1,4 +1,13 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        
-        return sorted(s) == sorted(t)
+        mp = {}
+        for ch in s:
+            mp[ch] = mp.get(ch, 0) + 1
+
+        for ch in t:
+            mp[ch] = mp.get(ch, 0) - 1
+
+        for values in mp.values():
+            if values != 0:
+                return False
+        return True
