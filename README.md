@@ -48,6 +48,7 @@
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/Subhamrana007/leetcode/tree/master/0071-simplify-path) |
+| [0242-valid-anagram](https://github.com/Subhamrana007/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Subhamrana007/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/Subhamrana007/leetcode/tree/master/0394-decode-string) |
 | [0572-subtree-of-another-tree](https://github.com/Subhamrana007/leetcode/tree/master/0572-subtree-of-another-tree) |
@@ -100,6 +101,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Subhamrana007/leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Subhamrana007/leetcode/tree/master/0141-linked-list-cycle) |
+| [0242-valid-anagram](https://github.com/Subhamrana007/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Subhamrana007/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1635-number-of-good-pairs](https://github.com/Subhamrana007/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Subhamrana007/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -130,6 +132,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Subhamrana007/leetcode/tree/master/0242-valid-anagram) |
 | [1137-height-checker](https://github.com/Subhamrana007/leetcode/tree/master/1137-height-checker) |
 ## Counting Sort
 |  |
